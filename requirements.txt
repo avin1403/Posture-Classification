@@ -1,6 +1,5 @@
-ultralytics>=8.3.0
-streamlit>=1.35.0
-opencv-python>=4.8.0
-pillow>=10.0.0
-numpy>=1.23.0
-plotly>=5.15.0
+streamlit
+opencv-python-headless
+numpy
+pillow
+tensorflow
